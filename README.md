@@ -9,7 +9,7 @@
 An AI-powered fitness program recommendation system that predicts workout goals, workout durations, and recommends suitable fitness programs based on user preferences.
 
 ---
-
+ 
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Phases](#phases)
